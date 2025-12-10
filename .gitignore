@@ -1,0 +1,31 @@
+# виртуальное окружение
+.venv/
+venv/
+
+# служебные файлы IDE
+.idea/
+.vscode/
+
+# временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# данные (если не хочешь выкладывать сырые файлы)
+data/*.csv
+data/*.xlsx
+
+# системные файлы macOS
+.DS_Store
+
+# чувствительные данные
+.env
+
+# прочий кеш
+*.log
+*.tmp
+.pytest_cache/
