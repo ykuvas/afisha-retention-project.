@@ -29,3 +29,5 @@ data/*.xlsx
 *.log
 *.tmp
 .pytest_cache/
+data/*.csv
+*.csv
